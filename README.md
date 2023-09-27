@@ -33,7 +33,9 @@ What we have discussed:
 - Compute Mathematics expression.
 - Variable.
 - Type.
+  
 ----------
+
 ## Week 3 Aug 28, 30
 
 Lecture:
@@ -56,7 +58,9 @@ What we have discussed:
 - Intro to list. 
 - Index of a list. 
 - Intro to list built-in functions.
+  
 ----------
+
 ## Week 4 Sep 6
 
 Lecture content:
@@ -74,8 +78,10 @@ What we have discussed:
 
 - Intro to str
 - Intro to str built-in methods.
-- Informal discussion on functions vs methods
+- Informal discussion on functions vs methods.
+
 ----------
+
 ## Week 5 Sep 11, 13
 
 Lecture:
@@ -92,7 +98,9 @@ Lab:
 What we have discussed:
 
 - Boolean expressions.
+  
 ----------
+
 ## Week 6 Sep 18, 20
 
 Lecture:
@@ -109,7 +117,9 @@ Lab:
 What we have discussed:
 
 - if, if-else, if-elif-else statements.
+  
 ----------
+
 ## Week 7 Sep 25, 27
 
 Lecture:
@@ -127,6 +137,7 @@ What we have discussed:
 
 - for loop
 - break
+  
 ----------
 
 
