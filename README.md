@@ -1,5 +1,5 @@
 # Introduction to Programming using Python
-This [website](https://mmtan.github.io/IntroProgrammingUsingPython/) contains all the quizzes, exams, and lab assignments used in the course Introduction to Programming using Python.
+This [website](https://mmtan.github.io/IntroProgrammingUsingPython/) contains all lectures, labs and recordings used in the course Introduction to Programming using Python.
 
 **These documents are not to be sold, published, or distributed without the author's consent.**
 
