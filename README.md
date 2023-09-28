@@ -21,7 +21,7 @@ Lecture content: Introduction to computational thinking, see [lec0.pptx](https:/
 Lecture:
 
 - The basics element of Python, see [lec1.pptx](https://www.dropbox.com/scl/fi/d8p23zsn6cblp1rjax71k/lec1.pptx?rlkey=2gcpnjmpbz1wqob3upfqm5icv&dl=0)
-- Demonstration in class: [****](https://colab.research.google.com/drive/1DXelvzEdS8ohKi6TxuJMWAv4YVpl1Akn?usp=sharing)[first_program_demo.ipynb](https://colab.research.google.com/drive/1DXelvzEdS8ohKi6TxuJMWAv4YVpl1Akn?usp=sharing)
+- Demonstration in class: [first_program_demo.ipynb](https://colab.research.google.com/drive/1DXelvzEdS8ohKi6TxuJMWAv4YVpl1Akn?usp=sharing)
 
 Lab:
 
