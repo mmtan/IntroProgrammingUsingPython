@@ -124,7 +124,7 @@ What we have discussed:
 
 Lecture:
 
-- Iteration statements, see [lec4.pptx](/content/enforced/450266-CO.120.CSCI.1200.Shared.98.20242/lec4.pptx?isCourseFile=true)
+- Iteration statements, see [lec4.pptx](https://www.dropbox.com/scl/fi/gs6vgrw49pe965qhtu86r/lec4.pptx?rlkey=p7kllvcnoouf1703dmkfc8tad&dl=0)
 - Demonstration in class: [for_demo.ipynb](https://colab.research.google.com/drive/1psu8Nn0mQwscslQ4CtgjGpqYSdkLNuqn?usp=sharing) 
 - Recordings: [week7a](https://youtu.be/TgyIFUO29Hc), [week7b](https://youtu.be/y_Ii5K0LNVc) (part of the week7b content is resumed in mini_presentation_lab6)
 
