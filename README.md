@@ -138,6 +138,23 @@ What we have discussed:
 - for loop
 - break
   
-----------
+---
+
+## Week 8 Oct 2, 4
+
+Lecture:
+
+- Iteration statements, see [lec4.pptx](/content/enforced/450266-CO.120.CSCI.1200.Shared.98.20242/lec4.pptx?isCourseFile=true)
+- Demonstration in class: [for_accummulator_demo.ipynb](https://colab.research.google.com/drive/1SCu6_ydqaznzWtwb82UcM6i1m7nRKX1y?usp=sharing)
+- Recordings: [lecture_week8a](https://youtu.be/4S-JtRROuVA), [lecture_week8b](https://youtu.be/xSNWq234K0M)
+
+Lab: 
+
+- Lab Presentation: [mini_presentation_lab7](https://youtu.be/DwrZhhRqxNo)
+- Lab Colab Notebook:  [iteration_for_accummulator.ipynb](https://colab.research.google.com/drive/15ICAFZMsVXiWStHiOnwJUf0vc2HIn9PS?usp=sharing)
+
+What we have discussed: 
+
+- for loop to accumulate numbers or to count
 
 
