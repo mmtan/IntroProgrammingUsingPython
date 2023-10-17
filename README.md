@@ -157,4 +157,25 @@ What we have discussed:
 
 - for loop to accumulate numbers or to count
 
+----------
+## Week 10 Oct 16, 19
+
+Lecture:
+
+- Iteration statements, see [lec4.pptx](/content/enforced/450266-CO.120.CSCI.1200.Shared.98.20242/lec4.pptx?isCourseFile=true)
+- Demonstration in class: [](https://colab.research.google.com/drive/1SCu6_ydqaznzWtwb82UcM6i1m7nRKX1y?usp=sharing) [while_demo,](https://colab.research.google.com/drive/1O4DpnizCuPc5AFM1iW_w1fosTfPlWyq5?usp=sharing) [for_vs_while_demo](https://colab.research.google.com/drive/129hyGkqfdgEmdRrwB8Hyxosj8afSAafm?usp=sharing)
+- Recordings: [lecture_week10a](https://youtu.be/YBWvM40BEqw), lecture_week10b
+
+Lab: 
+
+- Lab Presentation: [mini_presentation_lab8](https://youtu.be/4wPiuQB1sJo)
+- Lab Colab Notebook: [iteration_while](https://paper.dropbox.com/ep/redirect/external-link?url=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1goTvzPKEPf284Ljrp6UUGOxSOJbEsv8U%3Fusp%3Dsharing&hmac=mmQSEN89at9o4lhQN60bzLC6ATJJ2MTaMdkvoaNeAqc%3D)
+
+What we have discussed: 
+
+- while loop
+- for vs while loop
+
+
+
 
