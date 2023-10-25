@@ -181,7 +181,7 @@ What we have discussed:
 
 Lecture:
 
-- Iteration statements, see [lec5.pptx](https://lms.augusta.edu/content/enforced/450266-CO.120.CSCI.1200.Shared.98.20242/lec5.pptx?isCourseFile=true&_&d2lSessionVal=4iiJoc2XOwILjVlQgxc74R9j0&ou=450266)
+- Iteration statements, see [lec5.pptx](https://www.dropbox.com/scl/fi/2hzbujyrf2wetjzpwfhh6/lec5.pptx?rlkey=n5owk62rmyziz6qem6n9sx7si&dl=0)
 - Demonstration in class: [floating_point_demo](https://colab.research.google.com/drive/1RkVusp_WiNU8i4InLYkoCE7ROhZYw3IP?usp=sharing)
 - Recordings: [lecture_week11a](https://youtu.be/TsG8TZ9ffQQ), [lecture_week11b](https://youtu.be/qzxF7E2ofj4)
 
