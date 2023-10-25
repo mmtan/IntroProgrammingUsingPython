@@ -158,6 +158,7 @@ What we have discussed:
 - for loop to accumulate numbers or to count
 
 ----------
+
 ## Week 10 Oct 16, 19
 
 Lecture:
@@ -175,7 +176,8 @@ What we have discussed:
 
 - while loop
 - for vs while loop
----
+  
+----------
 
 ## Week 11 Oct 23, 25
 
@@ -193,7 +195,8 @@ Lab:
 What we have discussed: 
 
 - Floating point errors. 
-- Loss of significant digits errors. 
+- Loss of significant digits errors.
+  
 ----------
 
 
