@@ -175,6 +175,26 @@ What we have discussed:
 
 - while loop
 - for vs while loop
+---
+
+## Week 11 Oct 23, 25
+
+Lecture:
+
+- Iteration statements, see [lec5.pptx](https://lms.augusta.edu/content/enforced/450266-CO.120.CSCI.1200.Shared.98.20242/lec5.pptx?isCourseFile=true&_&d2lSessionVal=4iiJoc2XOwILjVlQgxc74R9j0&ou=450266)
+- Demonstration in class: [floating_point_demo](https://colab.research.google.com/drive/1RkVusp_WiNU8i4InLYkoCE7ROhZYw3IP?usp=sharing)
+- Recordings: [lecture_week11a](https://youtu.be/TsG8TZ9ffQQ), [lecture_week11b](https://youtu.be/qzxF7E2ofj4)
+
+Lab: 
+
+- Lab Presentation: [mini_presentation_lab9](https://youtu.be/gzU4nKrJHYo)
+- Lab Colab Notebook: [library_system](https://colab.research.google.com/drive/1fM4AWCotAFNgCrImYBT7t63YHKhd4NXm?usp=sharing)
+
+What we have discussed: 
+
+- Floating point errors. 
+- Loss of significant digits errors. 
+----------
 
 
 
