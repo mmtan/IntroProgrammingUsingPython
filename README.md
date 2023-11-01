@@ -216,7 +216,24 @@ What we have discussed:
   
 ----------
 
+## Week 12 Oct 30, Nov 1
 
+Lecture:
+
+- List, see [lec6.pptx](https://lms.augusta.edu/content/enforced/450266-CO.120.CSCI.1200.Shared.98.20242/lec6.pptx?isCourseFile=true&_&d2lSessionVal=8yjP0qbudeiMNwCPZj67ODLmG&ou=450266)
+- Demonstration in class: [list_demo](https://colab.research.google.com/drive/1ivHYsKXfch8WDlKBqJgyxTAW3daOFWSA?usp=sharing)
+- Recordings: [lecture_week12a](https://youtu.be/DJhT5njilHk), [lecture_week12b](https://youtu.be/JGAUBHKuZs0)
+
+Lab: 
+
+- Lab Presentation: [mini_presentation_lab10](https://youtu.be/IqlGHzwRiQM)
+- Lab Colab Notebook: [grade_system](https://colab.research.google.com/drive/10b4xFXtjxeC8T9Al-OYCNtHNIu1fE_vj?usp=sharing)
+
+What we have discussed:
+
+- Function and methods on list.
+
+----------
 
 
 
