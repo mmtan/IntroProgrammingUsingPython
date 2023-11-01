@@ -197,11 +197,11 @@ Lab:
 There were some mistakes made during the presentation: 
 
 
-1. For Fine system 4: 
+* For Fine system 4: 
 
 When computing `max_days_late`, which defined as the maximum number of days late for which the total rewards will be less than or equal to 20 should be `math.floor((max_fine-7*small_fine)/large_fine+7)`.
 
-2. For Reward system 3: 
+* For Reward system 3: 
 
 Using `Decimal` can be slow, compute the rewards by converting the corresponding floating point number to its equivalent integer. We can create our own unit system where 1 unit is 0.1 point.
 When display to the user, convert it back to original point system. In other words, when display the total reward, divide the result by 10.
