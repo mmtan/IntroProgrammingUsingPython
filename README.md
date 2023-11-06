@@ -41,7 +41,7 @@ What we have discussed:
 Lecture:
 
 - The basics element of Python, see [lec1.pptx](https://www.dropbox.com/scl/fi/d8p23zsn6cblp1rjax71k/lec1.pptx?rlkey=2gcpnjmpbz1wqob3upfqm5icv&dl=0)
-- Demonstration in class: [experiments_demo.ipynb](https://colab.research.google.com/drive/1oYtzsBnWjUv4fRdgo_x7TooRgfLeb6Cj?usp=sharing) , [list_demo.ipynb](https://colab.research.google.com/drive/1wmEasSU9WJ2-4aXB-aZGDvhmFXpl7TaY?usp=sharing)
+- Demonstration in class: [experiments_demo.ipynb](https://colab.research.google.com/drive/1oYtzsBnWjUv4fRdgo_x7TooRgfLeb6Cj?usp=sharing) , [list_intro_demo.ipynb](https://colab.research.google.com/drive/1wmEasSU9WJ2-4aXB-aZGDvhmFXpl7TaY?usp=sharing)
 - Recordings: [lecture_week3a](https://www.dropbox.com/scl/fi/rc56bqv4ze4zrr79t0ey8/lecture_week3a.mp4?rlkey=y5ah73ie0bjhidq3xnp69z3s2&dl=0), [lecture_week3b](https://www.dropbox.com/scl/fi/k1ai0n9wsf1bp7g8koqng/lecture_week3b.mp4?rlkey=vdwn4vbyitkwv00sd0t8tp487&dl=0), [lecture_week3c](https://youtu.be/evsoSQjnbdo)
 
 Lab:
@@ -67,7 +67,7 @@ Lecture content:
 Lecture:
 
 - The basics element of Python, see [lec1.pptx](https://www.dropbox.com/scl/fi/d8p23zsn6cblp1rjax71k/lec1.pptx?rlkey=2gcpnjmpbz1wqob3upfqm5icv&dl=0)
-- Demonstration in class: [string_demo.ipynb](https://colab.research.google.com/drive/1eskQIZt3_A2XQfvq4Ejsj0SqtM3y5SCP?usp=sharing)
+- Demonstration in class: [string_intro_demo.ipynb](https://colab.research.google.com/drive/1eskQIZt3_A2XQfvq4Ejsj0SqtM3y5SCP?usp=sharing)
 
 Lab:
 
