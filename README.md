@@ -213,7 +213,7 @@ What we have discussed:
 
 Lecture:
 
-- List, see [lec6.pptx](https://lms.augusta.edu/content/enforced/450266-CO.120.CSCI.1200.Shared.98.20242/lec6.pptx?isCourseFile=true&_&d2lSessionVal=8yjP0qbudeiMNwCPZj67ODLmG&ou=450266)
+- List, see [lec6.pptx](https://www.dropbox.com/scl/fi/cg4skrqag9w6k7fh0qij6/lec6.pptx?rlkey=r0opjvly6udyn708rsu2x4pz8&dl=0)
 - Demonstration in class: [list_demo](https://colab.research.google.com/drive/1ivHYsKXfch8WDlKBqJgyxTAW3daOFWSA?usp=sharing)
 - Recordings: [lecture_week12a](https://youtu.be/DJhT5njilHk), [lecture_week12b](https://youtu.be/JGAUBHKuZs0)
 
@@ -232,7 +232,7 @@ What we have discussed:
 
 Lecture:
 
-- String, see [lec6.pptx](https://lms.augusta.edu/content/enforced/450266-CO.120.CSCI.1200.Shared.98.20242/lec6.pptx?isCourseFile=true&_&d2lSessionVal=8yjP0qbudeiMNwCPZj67ODLmG&ou=450266)
+- String, see [lec6.pptx](https://www.dropbox.com/scl/fi/cg4skrqag9w6k7fh0qij6/lec6.pptx?rlkey=r0opjvly6udyn708rsu2x4pz8&dl=0)
 - Demonstration in class: [string_demo](https://colab.research.google.com/drive/1A9GyIO8znbXCdOqrewEn6HJ5BvFo5xf_?usp=sharing)
 - Recordings: [lecture_week13a](https://youtu.be/p5QbHj_ef50), [lecture_week13b](https://youtu.be/wz0gJRd5xI0)
 
