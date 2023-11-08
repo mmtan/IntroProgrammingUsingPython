@@ -228,5 +228,25 @@ What we have discussed:
 
 ----------
 
+## Week 13 Nov 6, 8
+
+Lecture:
+
+- String, see [lec6.pptx](https://lms.augusta.edu/content/enforced/450266-CO.120.CSCI.1200.Shared.98.20242/lec6.pptx?isCourseFile=true&_&d2lSessionVal=8yjP0qbudeiMNwCPZj67ODLmG&ou=450266)
+- Demonstration in class: [string_demo](https://colab.research.google.com/drive/1A9GyIO8znbXCdOqrewEn6HJ5BvFo5xf_?usp=sharing)
+- Recordings: [lecture_week13a](https://youtu.be/p5QbHj_ef50), [lecture_week13b](https://youtu.be/wz0gJRd5xI0)
+
+Lab: 
+
+- Lab Presentation: [mini_presentation_lab11](https://youtu.be/z5aIg8uZIjE)
+- Lab Colab Notebook: [password_system](https://colab.research.google.com/drive/16j6CPo73iguJV7K5llVV5BmLTLK8vHLZ?usp=sharing)
+
+What we have discussed:
+
+- Function and methods on str. 
+- Remarks on other data structures.
+
+----------
+
 
 
