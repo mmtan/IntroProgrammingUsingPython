@@ -248,5 +248,26 @@ What we have discussed:
 
 ----------
 
+## Week 14, 15 Nov 13, 15
 
+Lecture:
+
+- Exhaustive search, see [lec7.pptx](https://www.dropbox.com/scl/fi/w3e6pxi7quzruhh3iye7v/lec7.pptx?rlkey=xwpurj7nfrh8xni7kykr9v17h&dl=0)
+    - Demonstration in class: [exhaustive_demo](https://colab.research.google.com/drive/1QhGHsY4O7Hbg9zP7tXbIGcysYc4U8xj6?usp=sharing)
+    - Recordings: [lecture_week14a](https://youtu.be/YFfXJKY2BO0), [lecture_week14b](https://youtu.be/610mKc7-FsI)
+- Binary search, see [lec8.pptx](https://www.dropbox.com/scl/fi/1bto78hr49u7sg399sdpa/lec8.pptx?rlkey=90w2ncbwx3mddvb49nfiw2kgl&dl=0)
+    - Demonstration in class: [binary_search_demo](https://colab.research.google.com/drive/12Z8fhRa7VOKSk_KjTJTRtNiGV7bME8mV?usp=sharing)
+    - Recording: [lecture_week15](https://youtu.be/Lp0q98pP3Pc)
+
+Lab: 
+
+- Lab Presentation: [mini_presentation_lab12](https://youtu.be/pUYsZnev2rg)
+- Lab Colab Notebook: [exhaustive_search_lab](https://colab.research.google.com/drive/1gIA-DF5DnKkjWLGY6TlsXclTjWGM_wIe?usp=sharing)
+
+What we have discussed:
+
+- Exhaustive search
+- Binary search
+
+--------
 
