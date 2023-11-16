@@ -192,9 +192,9 @@ Lab:
 - Lab Presentation: [mini_presentation_lab9](https://youtu.be/gzU4nKrJHYo)
 - Lab Colab Notebook: [library_system](https://colab.research.google.com/drive/1fM4AWCotAFNgCrImYBT7t63YHKhd4NXm?usp=sharing)
 
-**Corrections to lab 9**: 
+**Corrections to lab 9** (library_system.ipynb): 
 
-There were some mistakes made during the presentation: 
+There were some mistakes made during the [mini_presentation_lab9](https://youtu.be/gzU4nKrJHYo): 
 
 
 * For Fine system 4: When computing `max_days_late`, which defined as the maximum number of days late for which the total rewards will be less than or equal to 20 should be `math.floor((max_fine-7*small_fine)/large_fine+7)`.
@@ -268,6 +268,25 @@ What we have discussed:
 
 - Exhaustive search
 - Binary search
+
+**Corrections to lab 12** (exhaustive_search_lab.ipynb): 
+
+The following mistake was made during the [mini_presentation_lab12](https://youtu.be/pUYsZnev2rg)
+
+In Sample Code 2b, the implementation of version 2 should be
+
+    # implement version 2
+    current_max = L[0]
+    for i in range(1, len(L)): # iterate indices of L starting from index 1
+      element = L[i]
+      if element > current_max:
+        current_max = element
+    print(current_max)
+
+line 3 should run iteration from 1 to `len(L)-1` inclusive. 
+`current_max` is set to the first element of the list (index 0). 
+In the first iteration, we should compare the second element of the list (index 1) with `current_max`.
+
 
 --------
 
