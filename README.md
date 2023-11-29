@@ -287,6 +287,19 @@ line 3 should run iteration from 1 to `len(L)-1` inclusive.
 `current_max` is set to the first element of the list (index 0). 
 In the first iteration, we should compare the second element of the list (index 1) with `current_max`.
 
+----------
+## Week 16 Nov 27, 29
 
---------
+Lecture:
+
+- Binary search application
+    - Demonstration in class: [binary_search_application](https://colab.research.google.com/drive/1udSt1anmysFfwwUOXAaL0IsdKNloUz_1?usp=sharing)
+    - Recordings: [lecture_week1](https://youtu.be/AYhSE4cgswY)[6](https://youtu.be/AYhSE4cgswY)[a](https://youtu.be/AYhSE4cgswY), [lecture_week1](https://youtu.be/IKN5jVd_O1s)[6](https://youtu.be/IKN5jVd_O1s)[b](https://youtu.be/IKN5jVd_O1s)
+
+What we have discussed:
+
+- Application of binary search: On finding integer square roots. On guessing number game.
+
+----------
+
 
